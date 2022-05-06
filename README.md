@@ -16,11 +16,16 @@
 ### Aprendendo `Front-End` : 
   - FrameWorks em `TypeScript` e `Java-Script` ;
     - ⚛️React 
+      - `Projetos`
+        - [Alura Studies]()
     - 🇳 Next
+      - `Projetos` 
+        - [Alura Cases]()
     - 🅰️Angular
   - FrameWorks em `Css` ;
     - 💨Tailwind-Css
 ### Aprendendo  `Back-End` : 
   - 🇬🇴  Golang 
+  -     Type-Script
   - 🇯🇸  Java-Script
   - 💎Ruby

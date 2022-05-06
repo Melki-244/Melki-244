@@ -6,7 +6,7 @@
   - 🐦 Siga-me no [Twitter]() 
   - 🔌 Questione-me no [Discord]()
   - 🤝 Contrate-me no [Workana](https://www.workana.com/freelancer/019abdac0b15b679c623a49fd486b17c?utm_source=share-profile&utm_medium=email&utm_campaign=share-2022-05-06)
-  -  ➤ Siga-me no [Linkedin](https://matrix.to/#/+atmachine:matrix.org)
+  -  ➤ Siga-me no [Linkedin](https://www.linkedin.com/in/melkizedelk-cavalcante-lima-9a977422b/)
   -  💳 Ajude-me no [Patreon]()
   - 🙅🏼Patrocine-me  no [GitHub]()
 

@@ -20,7 +20,6 @@
     - 🅰️Angular
   - FrameWorks em `Css` ;
     - 💨Tailwind-Css
-    - 🌐HTML
 ### Aprendendo  Back-End : 
   - 🇬🇴  Golang 
   - 🇯🇸  Java-Script

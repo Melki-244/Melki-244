@@ -13,15 +13,15 @@
 
 🗒️ Notas de Atualização
 
-- Aprendendo Front-End : 
-  - FrameWorks em Type-Script|Java-Script ;
+- Aprendendo #Front-End : 
+  - FrameWorks em `TypeScript` e `Java-Script` ;
     - ⚛️React 
     - 🇳 Next
     - 🅰️Angular
-  - FrameWorks em Css ;
+  - FrameWorks em `Css` ;
     - 💨Tailwind-Css
     - 🌐HTML
-- Aprendendo Back-End : 
+- Aprendendo #Back-End : 
   - 🇬🇴  Golang 
   - 🇯🇸  Java-Script
   - 💎Ruby

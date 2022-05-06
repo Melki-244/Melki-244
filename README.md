@@ -16,7 +16,7 @@
 - Aprendendo Front-End : 
   - FrameWorks em Type-Script|Java-Script ;
     - ⚛️React 
-    - 🇳Next
+    - 🇳 Next
     - 🅰️Angular
   - FrameWorks em Css ;
     - 💨Tailwind-Css

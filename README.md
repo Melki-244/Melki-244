@@ -26,6 +26,6 @@
     - 💨Tailwind-Css
 ### Aprendendo  `Back-End` : 
   - 🇬🇴  Golang 
-  -     Type-Script
+  - Type-Script
   - 🇯🇸  Java-Script
   - 💎Ruby

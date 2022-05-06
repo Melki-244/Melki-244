@@ -22,6 +22,6 @@
     - 💨Tailwind-Css
     - 🌐HTML
 - Aprendendo Back-End : 
-  - 🇬🇴|Golang 
+  - 🇬🇴  Golang 
+  - 🇯🇸  Java-Script
   - 💎Ruby
-  - 🇯🇸|Java-Script

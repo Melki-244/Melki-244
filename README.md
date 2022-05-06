@@ -1,4 +1,4 @@
-- 🧠 Atualmente Aprendendo Front End 
+- 🧠 Atualmente Aprendendo Front-End E Back-End 
 
 - 🙋 Como me Encontrar:
 
@@ -13,9 +13,15 @@
 
 🗒️ Notas de Atualização
 
-- Aprendendo React.js, Typescript, Tailwind-Css  
-- Desenvolvendo Projetos Acadêmicos : 
-  
-  - Projetos Em React  [AluraStudies](https://github.com/Melki-244/react.js-alura_studies) 
-  - Projetos Em Tailwind-Css  
-  - Projetos Em Typescript 
+- Aprendendo Front-End : 
+  - FrameWorks em Type-Script|Java-Script ;
+    - ⚛️React 
+    - 🇳Next
+    - 🅰️Angular
+  - FrameWorks em Css ;
+    - 💨Tailwind-Css
+    - 🌐HTML
+- Aprendendo Back-End : 
+  - 🇬🇴|Golang 
+  - 💎Ruby
+  - 🇯🇸|Java-Script

@@ -1,6 +1,6 @@
-- 🧠 Atualmente Aprendendo Front-End E Back-End 
+##- 🧠 Atualmente Aprendendo Front-End E Back-End 
 
-- 🙋 Como me Encontrar:
+###- 🙋 Como me Encontrar:
 
   - 🕸️ Visite Meu [Website]()
   - 🐦 Siga-me no [Twitter]() 

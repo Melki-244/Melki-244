@@ -24,6 +24,4 @@
         - [Página de Login Facebook](https://github.com/Melki-244/Facebook-Login_Page_Tailwind)
 ### Aprendendo  `Back-End` : 
   - 🇬🇴  Golang 
-  - Type-Script
-  - 🇯🇸  Java-Script
   - 💎Ruby

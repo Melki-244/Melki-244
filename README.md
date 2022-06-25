@@ -1,6 +1,6 @@
-## 🧠 Atualmente Aprendendo Front-End E Back-End 
+## 🧠 hello I'm Melki, currently developing api's rest in go
 
-### 🙋 Como me Encontrar:
+### 🙋 how to find me:
 
-  - 🔌 Questione-me no [Discord]()
-  -  ➤ Siga-me no [Linkedin](https://www.linkedin.com/in/melkizedelk-cavalcante-lima-9a977422b/)
+  - 🔌 question me on [Discord]()
+  -  ➤ follow me on [Linkedin](https://www.linkedin.com/in/melkizedelk-cavalcante-lima-9a977422b/)

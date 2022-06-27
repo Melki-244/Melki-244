@@ -1,4 +1,4 @@
-## 🧠 hello I'm Melki, currently developing api's rest in go
+## 🧠 hello I'm Melki, currently developing rest Api's in go
 
 ### 🙋 how to find me:
 
